@@ -1,0 +1,145 @@
+#container{
+    width: 1250px;
+    margin: auto;
+}
+
+
+#heading{
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    text-align: center;
+}
+
+#heading p{
+    font-size: 30px;
+}
+
+#form{
+    height: 1500px;
+    border: 2px solid grey;
+    padding: 10px 10px 10px 30px;
+
+}
+
+#form h1{
+    font-size: 35px;
+    text-align: left;
+}
+
+#name h1{
+    font-size: 30px;
+    position: relative;
+    top: 13px;
+}
+
+
+#name form{
+    position: relative;
+    left: 170px;
+    bottom: 35px;
+}
+
+#mname h2{
+    font-size: 30px;
+    position: relative;
+    left: 400px;
+    bottom: 85px;
+
+}
+
+#mname form{
+    position: relative;
+    left: 600px;
+    bottom: 135px;
+
+}
+
+#lname h3{
+    font-size: 30px;
+    position: relative;
+    left: 820px;
+    bottom: 195px;
+}
+
+#lname form{
+    position: relative;
+    left: 990px;
+    bottom: 250px;
+}
+
+#bday h1{
+    font-size: 35px;
+    position: relative;
+    bottom: 120px;
+}
+
+#day h2{
+    font-size: 30px;
+    position: relative;
+    bottom: 100px;
+}
+
+#day select{
+    font-size: 20px;
+    position: relative;
+    left: 90px;
+    bottom: 153px;
+}
+
+#month h3{
+    font-size: 30px;
+    position: relative;
+    left: 380px;
+    bottom: 210px;
+}
+
+#month select{
+    font-size: 20px;
+    position: relative;
+    left: 505px;
+    bottom: 270px;
+}
+
+#year h4{
+    font-size: 30px;
+    position: relative;
+    left: 870px;
+    bottom: 332px;
+}
+
+#year select{
+    font-size: 20px;
+    position: relative;
+    left: 970px;
+    bottom: 400px;
+}
+
+#address h1{
+    font-size: 35px;
+    position: relative;
+    bottom: 300px;
+}
+
+#address form{
+    position: relative;
+    bottom: 280px;
+} 
+
+#city p{
+    font-size: 30px;
+    position: relative;
+    bottom: 270px;
+}
+
+#city form{
+    position: relative;
+    bottom: 325px;
+    left: 80px;
+}
+
+#city p1{
+    font-size: 30px;
+    position: relative;
+    bottom: 360px;
+    left: 370px;
+}

@@ -1,0 +1,586 @@
+#container{
+    width: 1250px;
+    margin: 0 auto;
+
+}
+
+#aradhya{
+    height: 360px;
+    border: 2px solid mediumblue;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+#image img{
+    width: 500px;
+}
+
+#view{
+    font-size: 22px;
+    margin-left: 370px;
+}
+
+#view a{
+    text-decoration: none;
+    color: navy;
+}
+
+#heading{
+    color: rgb(255, 0, 0);
+    float: right;
+    font-size: 45px;
+    position: relative;
+    bottom: 360px;
+    right: 300px;
+}
+
+#location{
+    font-size: 30px;
+    position: relative;
+    left: 580px;
+    bottom: 300px;
+}
+
+#box{
+    width: 547px;
+    height: 150px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left:580px ;
+    bottom: 190px;
+}
+
+#points ul li{
+    font-size: 20px;
+    padding: 7px;
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+#sb1{
+    height: 50px;
+    width: 250px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 580px;
+    bottom: 430px;
+    padding: 10px;
+}
+
+#config1{
+    font-size: 20px;
+}
+
+#sb2{
+    height: 50px;
+    width: 250px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 860px;
+    bottom: 504px;
+    padding: 10px;
+}
+
+#config2{
+    font-size: 20px;
+}
+
+#solitaire{
+    height: 360px;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 10px;
+    padding: 20px;
+    position: relative;
+    top: 20px;
+}
+
+#images img{
+    height: 320px;
+    /*width: 320px;*/
+    float: right;
+    position: relative;
+    left: 330px;
+    top: 10px;
+}
+
+#views{
+    font-size: 24px;
+    margin-left: 710px;
+    position: relative;
+    top: 20px;
+}
+
+#views a{
+    text-decoration: none;
+    color: navy;
+}
+
+#headings{
+    color: rgb(255, 0, 0);
+    /*float: right;*/
+    font-size: 60px;
+    position: relative;
+    bottom: 340px;
+    left: 30px;
+}
+
+#locations{
+    font-size: 30px;
+    position: relative;
+    bottom: 340px;
+    left: 30px;
+}
+
+#boxs{
+    width: 547px;
+    height: 150px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left:30px ;
+    bottom: 230px;
+}
+
+#pointss ul li{
+    font-size: 20px;
+    padding: 7px;
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+#sb1s{
+    height: 50px;
+    width: 250px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 170px;
+    bottom: 470px;
+    padding: 10px;
+}
+
+#config1s{
+    font-size: 20px;
+}
+
+#poddar{
+    height: 360px;
+    border: 2px solid mediumblue;
+    border-radius: 10px;
+    padding: 15px;
+    position: relative;
+    top: 40px;
+}
+
+#imagep img{
+    width: 500px;
+}
+
+#viewp{
+    font-size: 22px;
+    margin-left: 370px;
+}
+
+#viewp a{
+    text-decoration: none;
+    color: navy;
+}
+
+#headingp{
+    color: rgb(255, 0, 0);
+    float: right;
+    font-size: 45px;
+    position: relative;
+    bottom: 250px;
+    right: 200px;
+}
+
+#locationp{
+    font-size: 25px;
+    position: relative;
+    left: 580px;
+    bottom:190px;
+}
+
+#boxp{
+    width: 580px;
+    height: 150px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left:580px ;
+    bottom: 60px;
+}
+
+#pointsp ul li{
+    font-size: 20px;
+    padding: 7px;
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+#sb1p{
+    height: 50px;
+    width: 260px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 580px;
+    bottom: 340px;
+    padding: 10px;
+}
+
+#config1p{
+    font-size: 18px;
+}
+
+#sb2p{
+    height: 50px;
+    width: 270px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 870px;
+    bottom: 414px;
+    padding: 10px;
+}
+
+#config2p{
+    font-size: 18px;
+}
+
+#sb3p{
+    height: 15px;
+    width: 380px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 690px;
+    bottom: 410px;
+    padding: 10px;
+}
+
+#config3p{
+    font-size: 18px;
+}
+
+#saffron{
+    height: 360px;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 10px;
+    padding: 20px;
+    position: relative;
+    top: 60px;
+}
+
+#imagesr img{
+    height: 320px;
+    /*width: 320px;*/
+    float: right;
+    position: relative;
+    left: 0px;
+    top: 10px;
+}
+
+#viewsr{
+    font-size: 24px;
+    margin-left: 710px;
+    position: relative;
+    top: 350px;
+}
+
+#viewsr a{
+    text-decoration: none;
+    color: navy;
+}
+
+#headingsr{
+    color: rgb(255, 0, 0);
+    /*float: right;*/
+    font-size: 50px;
+    position: relative;
+    bottom: 45px;
+    left: 30px;
+}
+
+#locationsr{
+    font-size: 25px;
+    position: relative;
+    left: 30px;
+    bottom: 40px;
+}
+
+#boxsr{
+    width: 547px;
+    height: 150px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left:30px ;
+    top: 105px;
+}
+
+#pointssr ul li{
+    font-size: 20px;
+    padding: 7px;
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+#sb1sr{
+    height: 50px;
+    width: 250px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 30px;
+    bottom: 190px;
+    padding: 10px;
+}
+
+#config1sr{
+    font-size: 20px;
+}
+
+#sb2sr{
+    height: 50px;
+    width: 250px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 310px;
+    bottom: 264px;
+    padding: 10px;
+}
+
+#config2sr{
+    font-size: 20px;
+}
+
+#sb3sr{
+    height: 30px;
+    width: 360px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 140px;
+    bottom: 256px;
+    padding: 10px;
+}
+
+#config3sr{
+    font-size: 20px;
+}
+
+#VKG{
+    height: 360px;
+    border: 2px solid mediumblue;
+    border-radius: 10px;
+    padding: 15px;
+    position: relative;
+    top: 80px;
+}
+
+#imagev img{
+    width: 400px;
+    position: relative;
+}
+
+#viewv{
+    font-size: 22px;
+    margin-left: 278px;
+}
+
+#viewv a{
+    text-decoration: none;
+    color: navy;
+}
+
+#headingv{
+    color: rgb(255, 0, 0);
+    float: right;
+    font-size: 45px;
+    position: relative;
+    bottom: 370px;
+    right: 300px;
+}
+
+#locationv{
+    font-size: 30px;
+    position: relative;
+    left: 570px;
+    bottom: 300px;
+}
+
+#boxv{
+    width: 580px;
+    height: 150px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left:570px ;
+    bottom: 180px;
+}
+
+#pointsv ul li{
+    font-size: 20px;
+    padding: 7px;
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+#sb1v{
+    height: 50px;
+    width: 260px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 570px;
+    bottom: 420px;
+    padding: 10px;
+}
+
+#config1v{
+    font-size: 20px;
+}
+
+#sb2v{
+    height: 50px;
+    width: 270px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 860px;
+    bottom: 494px;
+    padding: 10px;
+}
+
+#config2v{
+    font-size: 20px;
+}
+
+/*#sb3v{
+    height: 15px;
+    width: 380px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 690px;
+    bottom: 220px;
+    padding: 10px;
+}
+
+#config3v{
+    font-size: 18px;
+}*/
+
+#spenta{
+    height: 360px;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 10px;
+    padding: 20px;
+    position: relative;
+    top: 100px;
+}
+
+#imagesp img{
+    height: 320px;
+    /*width: 320px;*/
+    float: right;
+    position: relative;
+    right: -340px;
+    top: 10px;
+}
+
+#viewsp{
+    font-size: 24px;
+    margin-left: 800px;
+    position: relative;
+    top: 20px;
+}
+
+#viewsp a{
+    text-decoration: none;
+    color: navy;
+}
+
+#headingsp{
+    color: rgb(255, 0, 0);
+    /*float: right;*/
+    font-size: 50px;
+    position: relative;
+    bottom: 345px;
+    left: 30px;
+}
+
+#locationsp{
+    font-size: 30px;
+    position: relative;
+    bottom: 330px;
+    left: 30px;
+}
+
+#boxsp{
+    width: 547px;
+    height: 150px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left:30px ;
+    bottom: 220px;
+}
+
+#pointssp ul li{
+    font-size: 19px;
+    padding: 5px;
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+#sb1sp{
+    height: 50px;
+    width: 250px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left:30px;
+    bottom: 460px;
+    padding: 10px;
+}
+
+#config1sp{
+    font-size: 25px;
+}
+
+#sb2sp{
+    height: 50px;
+    width: 250px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 310px;
+    bottom: 534px;
+    padding: 10px;
+}
+
+#config2sp{
+    font-size: 25px;
+}
+
+/*#sb3sp{
+    height: 30px;
+    width: 360px;
+    border: 2px solid grey;
+    border-radius:5px ;
+    position: relative;
+    left: 140px;
+    bottom: 96px;
+    padding: 10px;
+}
+
+#config3sp{
+    font-size: 20px;
+}*/
